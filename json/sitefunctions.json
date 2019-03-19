@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Service Provider",
+    "code": "SF000000000009",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Labour Provider",
+    "code": "SF000000000006",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Fishing Vessel",
+    "code": "SF000000000016",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Primary Producer (Agriculture)",
+    "code": "SF000000000008",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Packhouse",
+    "code": "SF000000000007",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Smallholder",
+    "code": "SF000000000013",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Factory Processing / Manufacturer",
+    "code": "SF000000000002",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Produce Marketing Organisation",
+    "code": "SF000000000012",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Agent",
+    "code": "SF000000000001",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Heavy Engineering (e.g. Aerospace)",
+    "code": "SF000000000015",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Grower",
+    "code": "SF000000000004",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Logistics",
+    "code": "SF000000000014",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Finished Product Supplier",
+    "code": "SF000000000003",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Transportation and Storage and Mail Services",
+    "code": "SF000000000011",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Sub-Contractor",
+    "code": "SF000000000010",
+    "localizationLang": "en"
+  }
+]

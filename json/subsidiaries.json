@@ -1,0 +1,16 @@
+[{
+	"organisationName": "sunny for testing",
+	"code": "ZC1092473",
+	"subscriptionType": "ST002",
+	"links": []
+}, {
+	"organisationName": "test for subsidiary",
+	"code": "ZC1000058",
+	"subscriptionType": "ST002",
+	"links": []
+}, {
+	"organisationName": "test shanghai111",
+	"code": "ZC1092827",
+	"subscriptionType": "ST002",
+	"links": []
+}]

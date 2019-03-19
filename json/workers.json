@@ -1,0 +1,17 @@
+{
+  "workers": [
+    {
+      "type": "WT000000000001",
+      "nrOfFemales": 20,
+      "nrOfMales": 20,
+      "total": 40
+    },
+    {
+      "type": "WT000000000006",
+      "nrOfFemales": 1,
+      "nrOfMales": 2,
+      "total": 3
+    }
+  ],
+  "workerTotal": 43
+}

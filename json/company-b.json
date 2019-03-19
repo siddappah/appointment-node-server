@@ -1,0 +1,28 @@
+{
+	"code": "ZC1032191",
+	"organisationName": "Bakkavor2",
+	"nameInLocalLanguage": "名称",
+	"address": {
+		"addressLine1": "Rua Pereira Leite, 323",
+		"addressLine2": "Conjunto A113",
+		"city": "São Paulo",
+		"countryCode": "BR",
+		"postCode": "054420009",
+		"state": "London"
+	},
+	"mainContacts": ["kato@kongrex.com.br"],
+	"telephoneNo": "5511 3032 1261",
+	"membershipStatus": null,
+	"tierType": null,
+	"totalTurnOver": 10,
+	"businessLicenseNumber": "12121211",
+	"businessLicenseExpDate": 1516779844000,
+	"majorMarkets": "Europe",
+	"website": "www.kongrex.com.br",
+	"languageSpoken": ["English"],
+	"numberOfSites": 1,
+	"subscriptionType": "ST002",
+	"currency": "USD",
+	"totalNumberOfSitesFacilities": 123,
+	"modifiedOn": 1517483460404
+}

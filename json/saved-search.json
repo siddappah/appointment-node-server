@@ -1,0 +1,102 @@
+[
+    {
+        "userCode": "ZS123456",
+        "name": "Search-A",
+        "id": 123,
+        "searchCriteria": {
+            "quickSearchText": "test search b",
+            "businessLicenseNumber": "test12345",
+            "countries": [
+                "DZ",
+                "IN"
+            ],
+            "state": "London",
+            "productArea": [
+                "53102900",
+                "53102500",
+                "53102400",
+                "53102600"
+            ],
+            "product": ["10101501","10101502","10101504"],
+            "startDateAudit": 1518091042000,
+            "endDateAudit": 1519387042000,
+            "saqPercentageStart": 10,
+            "saqPercentageEnd": 85
+        }
+    },
+    {
+        "userCode": "AB102030",
+        "name": "Search-B",
+        "id": 1235,
+        "searchCriteria": {
+            "quickSearchText": "test search b",
+            "businessLicenseNumber": "abc10203",
+            "countries": [
+                "AW"
+            ],
+            "state": "London",
+            "productArea": [
+                "53101600",
+                "53101500",
+                "86101500",
+                "39121600",
+                "39121500",
+                "81171500"
+            ],
+            "product": [],
+            "startDateAudit": 1518091042000,
+            "endDateAudit": 1519387042000,
+            "saqPercentageStart": 20,
+            "saqPercentageEnd": 70
+        }
+    },
+    {
+        "userCode": "HG123456",
+        "name": "hardware manufacturing companies",
+        "id": 123,
+        "searchCriteria": {
+            "quickSearchText": "test search c",
+            "businessLicenseNumber": "BHG45678",
+            "countries": [
+                "AF",
+                "GT",
+                "GG",
+                "HN"
+            ],
+            "state": "London",
+            "productArea": [
+                "53102900"
+            ],
+            "product": [],
+            "startDateAudit": 1518091042000,
+            "endDateAudit": 1519387042000,
+            "saqPercentageStart": 50,
+            "saqPercentageEnd": 95
+        }
+    },
+    {
+        "userCode": "BHT45895",
+        "name": "Search-D",
+        "id": 123,
+        "searchCriteria": {
+            "quickSearchText": "test search d",
+            "businessLicenseNumber": "OPJ45899",
+            "countries": [
+                "AF",
+                "MK",
+                "GG",
+                "PK"
+            ],
+            "state": "London",
+            "productArea": [
+                "81112500",
+                "32101500"
+            ],
+            "product": [],
+            "startDateAudit": 1518091042000,
+            "endDateAudit": 1519387042000,
+            "saqPercentageStart": 50,
+            "saqPercentageEnd": 95
+        }
+    }
+]

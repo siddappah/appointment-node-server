@@ -1,0 +1,38 @@
+[
+    {
+        "code": "10101501",
+        "name": "Cats"
+    },
+    {
+        "code": "10101502",
+        "name": "Dogs"
+    },
+    {
+        "code": "10101504",
+        "name": "Mink"
+    },
+    {
+        "code": "10101505",
+        "name": "Rats"
+    },
+    {
+        "code": "10101506",
+        "name": "Horses"
+    },
+    {
+        "code": "10101507",
+        "name": "Sheep"
+    },
+    {
+        "code": "10101508",
+        "name": "Goats"
+    },
+    {
+        "code": "10101509",
+        "name": "Asses"
+    },
+    {
+        "code": "10101510",
+        "name": "Mice"
+    }
+]

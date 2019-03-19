@@ -1,0 +1,24 @@
+{
+    "userCode": "ZC1032191",
+    "email": "joanne.baker@uk.tesco.com",
+    "firstName": null,
+    "lastName": null,
+    "organisationCode": "ZC1032191",
+    "roles": [
+        "REPORT_VIEWER",
+        "COMPANY_ADMIN",
+        "RISK_ASSESSMENT_TOOL_USER"
+    ],
+    "status": "ACTIVE",
+    "impersonatedUserCode": null,
+    "appRoles": {
+        "dataMonitor": [
+            "\"REPORT_VIEWER\""
+        ],
+        "advance": [
+            "\"SEDEX_ADMIN\"",
+            "\"RISK_ASSESSMENT_TOOL_USER\"",
+            "\"COMPANY_ADMIN\""
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Bharat",
+        "postalAddress": "#15/3, 1st main road vijayanagar",
+        "city": "Mysore",
+        "state": "Karnataka",
+        "mobile": 1020304050,
+        "email": "siddu@gmail.com",
+        "date": "12/03/2019",
+        "time": "10:15 AM"
+    },
+    {
+        "id": 2,
+        "name": "Arjun",
+        "postalAddress": "#42,Rajajinagar",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "mobile": 9945353472,
+        "email": "arjun@gmail.com",
+        "date": "12/03/2019",
+        "time": "10:30 AM"
+    },
+    {
+        "id": 1,
+        "name": "Radha",
+        "postalAddress": "#86/3, Jayanagar",
+        "city": "Ballari",
+        "state": "Karnataka",
+        "mobile": 9945487952,
+        "email": "radha@gmail.com",
+        "date": "12/03/2019",
+        "time": "11:45 AM"
+    },
+    {
+        "id": 2,
+        "name": "Avani",
+        "postalAddress": "#4562, Basavanagudi",
+        "city": "Raichur",
+        "state": "Karnataka",
+        "mobile": 9978453688,
+        "email": "avani@gmail.com",
+        "date": "12/03/2019",
+        "time": "1:30 PM"
+    }
+]

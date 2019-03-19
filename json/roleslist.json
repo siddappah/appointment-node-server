@@ -1,0 +1,77 @@
+{
+    "status": "success",
+    "code": 200,
+    "payload": [
+    {
+    "roleId": 1,
+    "approvedDate": "2018-08-13",
+    "createdDate": "2018-08-13",
+    "createdTime": "11:13:12",
+    "isActive": 1,
+    "isApproved": 1,
+    "otpFrequency": 1,
+    "maxDiscountPrice": 10,
+    "modifiedDate": "2018-08-13",
+    "modifiedTime": "11:13:12",
+    "roleGroupDesc": "admin11",
+    "roleGroupName": "admin11"
+    },
+    {
+    "roleId": 2,
+    "approvedDate": "2018-08-13",
+    "createdDate": "2018-08-13",
+    "createdTime": "11:13:12",
+    "isActive": 1,
+    "isApproved": 1,
+    "otpFrequency": 1,
+    "maxDiscountPrice": 0,
+    "modifiedDate": "2018-08-13",
+    "modifiedTime": "11:13:12",
+    "roleGroupDesc": "profile user",
+    "roleGroupName": "PROFILE"
+    },
+    {
+    "roleId": 3,
+    "approvedDate": "2018-08-13",
+    "createdDate": "2018-08-13",
+    "createdTime": "11:13:12",
+    "isActive": 1,
+    "isApproved": 1,
+    "otpFrequency": 1,
+    "maxDiscountPrice": 0,
+    "modifiedDate": "2018-08-13",
+    "modifiedTime": "11:13:12",
+    "roleGroupDesc": "admin user",
+    "roleGroupName": "ADMIN"
+    },
+    {
+    "roleId": 4,
+    "approvedDate": "2018-08-13",
+    "createdDate": "2018-08-13",
+    "createdTime": "11:13:12",
+    "isActive": 1,
+    "isApproved": 1,
+    "otpFrequency": 1,
+    "maxDiscountPrice": 0,
+    "modifiedDate": "2018-08-13",
+    "modifiedTime": "11:13:12",
+    "roleGroupDesc": "customer",
+    "roleGroupName": "CUSTOMER"
+    },
+    {
+    "roleId": 5,
+    "approvedDate": "2018-08-13",
+    "createdDate": "2018-08-13",
+    "createdTime": "11:13:12",
+    "isActive": 1,
+    "isApproved": 1,
+    "otpFrequency": 1,
+    "maxDiscountPrice": 0,
+    "modifiedDate": "2018-08-13",
+    "modifiedTime": "11:13:12",
+    "roleGroupDesc": "prime customer",
+    "roleGroupName": "prime customer"
+    }
+    ],
+    "errorCode": ""
+    }

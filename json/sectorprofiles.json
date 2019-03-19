@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Heavy Engineering",
+    "code": "HEAVMANU",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Service Providers",
+    "code": "SERVPROV",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Agriculture (Small)",
+    "code": "SMALLAGRI",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Intermediaries/Agents",
+    "code": "INTERMEDI",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Agriculture (Large)",
+    "code": "BIGAGRI",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Fishing Vessel",
+    "code": "FISHVESL",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Office / Headquarters",
+    "code": "OFFICEHQ",
+    "localizationLang": "en"
+  },
+  {
+    "name": "Manufacturing",
+    "code": "MANUFACT",
+    "localizationLang": "en"
+  }
+]

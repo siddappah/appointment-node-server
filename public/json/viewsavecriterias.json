@@ -1,0 +1,217 @@
+[
+    {
+        "userCode": "ZC1024638",
+        "name": "Search-A",
+        "id": 123,
+        "orgCode": "ZC1024686",
+        "searchCriteria": {
+            "quickSearchText": "test search b",
+            "businessLicenseNumber": "test12345",
+            "countries": [
+                "DZ",
+                "IN"
+            ],
+            "state": "London",
+            "productArea": [
+                "53102900",
+                "53102500",
+                "53102400",
+                "53102600"
+            ],
+            "product": [
+                "10101504"
+            ],
+            "startDateAudit": 1518091042000,
+            "endDateAudit": 1519387042000,
+            "saqPercentageStart": 10,
+            "saqPercentageEnd": 85
+        }
+    },
+    {
+        "userCode": "ZC1024638",
+        "name": "Search-B",
+        "id": 123,
+        "orgCode": "ZC1024686",
+        "searchCriteria": {
+            "productArea": [
+                "53101600",
+                "53101500",
+                "86101500",
+                "39121600",
+                "39121500",
+                "81171500"
+            ],
+            "product": [],
+            "countries": [
+                "AW",
+                "DZ",
+                "AS",
+                "AD",
+                "AO",
+                "AL"
+            ],
+            "quickSearchText": "test search b final",
+            "businessLicenseNumber": "abc10203Final",
+            "state": "London, Bristol",
+            "startDateAudit": 1518091042000,
+            "endDateAudit": 1519387042000,
+            "saqPercentageStart": 34,
+            "saqPercentageEnd": 70
+        }
+    },
+    {
+        "userCode": "ZC1024638",
+        "name": "hardware manufacturing companies",
+        "id": 123,
+        "orgCode": "ZC1024686",
+        "searchCriteria": {
+            "productArea": [
+                "53102900",
+                "53102500",
+                "53101800"
+            ],
+            "product": [
+                "10101504",
+                "10101506",
+                "10101507"
+            ],
+            "countries": [
+                "AF",
+                "GT",
+                "GG",
+                "HN"
+            ],
+            "quickSearchText": "test search c manufacture",
+            "businessLicenseNumber": "BHG45678M",
+            "state": "London",
+            "startDateAudit": 1518091042000,
+            "endDateAudit": 1519387042000,
+            "saqPercentageStart": 50,
+            "saqPercentageEnd": 95
+        }
+    },
+    {
+        "userCode": "ZC1024638",
+        "name": "Search-D",
+        "id": 123,
+        "orgCode": "ZC1024686",
+        "searchCriteria": {
+            "productArea": [
+                "53102900",
+                "53101800",
+                "53103200"
+            ],
+            "product": [],
+            "countries": [
+                "AF",
+                "GT",
+                "GG",
+                "HN",
+                "IN",
+                "ID"
+            ],
+            "quickSearchText": "test search c bangalore",
+            "businessLicenseNumber": "BHG45678sdfd",
+            "state": "London",
+            "startDateAudit": 1518071266000,
+            "endDateAudit": 1518071266000,
+            "saqPercentageStart": 51,
+            "saqPercentageEnd": 90
+        }
+    },
+    {
+        "userCode": "ZC1000057",
+        "name": "test",
+        "id": 123,
+        "orgCode": "ZC1024686",
+        "searchCriteria": {
+            "productArea": [],
+            "product": [],
+            "countries": [],
+            "quickSearchText": "test search c manufacture",
+            "businessLicenseNumber": "BHG45678M",
+            "state": "London",
+            "startDateAudit": 1518091042000,
+            "endDateAudit": 1519387042000,
+            "saqPercentageStart": 50,
+            "saqPercentageEnd": 95
+        },
+        "_id": "62c426eec1d64fedbc4c92b65b66f6bb"
+    },
+    {
+        "userCode": "ZC1032191",
+        "name": "test",
+        "code": -1,
+        "orgCode": "ZC1032191",
+        "searchCriteria": {
+            "productArea": [],
+            "product": [],
+            "countries": [],
+            "quickSearchText": "dsf",
+            "businessLicenseNumber": "",
+            "state": "",
+            "saqPercentageStart": 0,
+            "saqPercentageEnd": 0,
+            "startDateAudit": null,
+            "endDateAudit": null
+        },
+        "_id": "b22922ba1f374c7488fdd7df1da2d2f3"
+    },
+    {
+        "userCode": "ZC1032191",
+        "name": "test",
+        "code": -1,
+        "orgCode": "ZC1032191",
+        "searchCriteria": {
+            "productArea": [],
+            "product": [],
+            "countries": [],
+            "quickSearchText": "dsf",
+            "businessLicenseNumber": "",
+            "state": "",
+            "saqPercentageStart": 0,
+            "saqPercentageEnd": 0,
+            "startDateAudit": null,
+            "endDateAudit": null
+        },
+        "_id": "620f04134dfa4a718d6f001a035bb4fb"
+    },
+    {
+        "userCode": "ZC1032191",
+        "name": "dsf",
+        "code": -1,
+        "orgCode": "ZC1032191",
+        "searchCriteria": {
+            "productArea": [],
+            "product": [],
+            "countries": [],
+            "quickSearchText": "dfd",
+            "businessLicenseNumber": "",
+            "state": "",
+            "saqPercentageStart": 0,
+            "saqPercentageEnd": 0,
+            "startDateAudit": null,
+            "endDateAudit": null
+        },
+        "_id": "f2b1da4119544c90a7f575bc4d2dd06b"
+    },
+    {
+        "userCode": "ZC1032191",
+        "name": "dsf",
+        "code": -1,
+        "orgCode": "ZC1032191",
+        "searchCriteria": {
+            "productArea": [],
+            "product": [],
+            "countries": [],
+            "quickSearchText": "dfd",
+            "businessLicenseNumber": "",
+            "state": "",
+            "saqPercentageStart": 0,
+            "saqPercentageEnd": 0,
+            "startDateAudit": null,
+            "endDateAudit": null
+        },
+        "_id": "e4bbefbd37174132a1f0adcfbf29fe11"
+    }
+]

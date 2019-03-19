@@ -1,0 +1,28 @@
+{
+	"code": "ZC1032192",
+	"organisationName": "Bakkavor3",
+	"nameInLocalLanguage": null,
+	"address": {
+		"addressLine1": "West Marsh Road",
+		"addressLine2": "Spalding",
+		"city": "Leicestershire",
+		"countryCode": "GB",
+		"postCode": "PE11 2BB",
+		"state": null
+	},
+	"mainContacts": null,
+	"telephoneNo": null,
+	"membershipStatus": "ACTIVE",
+	"tierType": null,
+	"totalTurnOver": null,
+	"businessLicenseNumber": null,
+	"businessLicenseExpDate": null,
+	"majorMarkets": null,
+	"website": null,
+	"languageSpoken": null,
+	"numberOfSites": 36,
+	"subscriptionType": "ST003",
+	"currency": null,
+	"totalNumberOfSitesFacilities": null,
+	"modifiedOn": 1518711636091
+}

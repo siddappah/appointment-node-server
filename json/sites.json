@@ -1,0 +1,53 @@
+{
+	"links": [{
+		"rel": "edit-site",
+		"href": "https://devint.internal.sedexonline.com/smd/api/orgs/ZC1032191/site/ZS1088962"
+	}, {
+		"rel": "saq-completion",
+		"href": "https://devint.internal.sedexonline.com/smd/api/saq/site/ZS1088962/completion"
+	}, {
+		"rel": "audit-based",
+		"href": "https://devint.internal.sedexonline.com/smd/api/saq/site/ZS1088962/auditBaseCode"
+	}, {
+		"rel": "last-audit-date",
+		"href": "https://devint.internal.sedexonline.com/smd/api/audits/site/ZS1088962/lastAuditDate"
+	}, {
+		"rel": "isSMETA",
+		"href": "https://devint.internal.sedexonline.com/smd/api/audits/site/ZS1088962/isSMETA"
+	}, {
+		"rel": "view-site",
+		"href": "https://devint.internal.sedexonline.com/%23/organisation/view/ZC1032191/supplier-site/view/ZS1088962"
+	}, {
+		"rel": "view-saq",
+		"href": "http://devint.internal.sedexonline.com/saq/%23/saq/organisation/supplier/site/ZS1088962/modules/summary"
+	}, {
+		"rel": "view-audit",
+		"href": "http://audit-svc-devint.internal.sedexonline.com/api/audits/%23/audit/record/ZAA1089318?active=view-audit"
+	}],
+	"content": {
+		"code": "ZS1088962",
+		"organisationCode": "ZC1032191",
+		"siteName": "Alresford Salads",
+		"nameInLocalLanguage": null,
+		"address": {
+			"addressLine1": "The Nythe",
+			"addressLine2": null,
+			"city": "Alresford",
+			"countryCode": "AF",
+			"postCode": "SO24 9DZ",
+			"state": null
+		},
+		"siteMainContacts": null,
+		"businessLicenseNumber": null,
+		"businessLicenseExpDate": 0,
+		"functions": ["SF000000000002"],
+		"productAreas": ["50406200"],
+		"lastSaqModification": 1479114198383,
+		"productionCapacity": null,
+		"detailedProducts": ["10101507","10101506","10101508"],
+		"modifiedOn": 1520695819602,
+		"lastAuditDate": 1319500800000,
+		"lastAuditCode": "ZAA1089318",
+		"saqPercentageCompletion": 99.0
+	}
+}
